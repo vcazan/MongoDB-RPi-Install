@@ -21,7 +21,7 @@ echo "Fast Installer For Raspberry Pi"
 echo ""
 echo "Downloading ARM MongoDB Binaries"
 
-wget "http://www.widriksson.com/wp-content/uploads/2014/02/mongodb-rpi_20140207.zip"
+wget "https://googledrive.com/host/0Bx0kmUhAEPl-fk9ONXFHbmJUaElEbktoOTI5aTVLZENsVER1aURiNEFEYkJBQWF1TEFIZTg/mongodb-rpi_20140207.zip"
 
 echo "UnZipping..."
 echo ""
